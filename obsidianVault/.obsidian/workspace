@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux command line.md",
+            "file": "important username and passwords.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux command line.md",
+                "file": "important username and passwords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "0da1bbfdc2fe57c5",
   "lastOpenFiles": [
-    "Linux command line.md",
+    "important username and passwords.md",
     "git  command line.md",
-    "vocab.md",
     "Ideas that can be worked upon.md",
+    "Linux command line.md",
+    "shortcuts to be used.md",
+    "vocab.md",
     "Emails of Deens and Hods.md",
     "Done assignments.md",
     "College Assignments.md",
-    "C star points.md",
-    "Birthday.md",
-    "Art of writing.md"
+    "C star points.md"
   ]
 }
